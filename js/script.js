@@ -154,7 +154,7 @@ closeModalButton2.addEventListener("click", () => {
 });
 
 //POST de email
-emailjs.init("PLEFpfXygrB_9hIQD");
+emailjs.init("API KEY");
 
 form.addEventListener("submit", (event) => {
     event.preventDefault();
@@ -182,7 +182,7 @@ form.addEventListener("submit", (event) => {
         message,
     };
 
-    emailjs.send("service_x9el1e8", "template_tt4b2gp", formData).then(
+    emailjs.send("SERVICES", "TEMPLATE", formData).then(
         (response) => {
             console.log("E-mail enviado com sucesso!", response);
         },
