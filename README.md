@@ -43,7 +43,7 @@
 <p>Siga os passos abaixo para executar o projeto localmente:</p>
 <ol>
   <li>Clone o repositório:</li>
-  <pre><code>git clone https://github.com/JeffersonAlvesB/Meu-Portfolio.git</code></pre>
+  <pre><code>git clone https://github.com/JeffersonAlvesB/portfolio-dev.git</code></pre>
   <li>Abra o projeto no VSCode.</li>
   <li>Abra o arquivo Html</li>
   <li>Inicie o servidor com a extensão Live Server no VSCode.</li>
