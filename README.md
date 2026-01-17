@@ -1,4 +1,4 @@
-<h1 align="center">Professional Portfolio | Jefferson Alves 🚀</h1>
+<h1 align="center">Portfólio | Jefferson Alves 🚀</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Hospedado_e_Online-green?style=for-the-badge" alt="Status">
