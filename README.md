@@ -87,5 +87,5 @@
 <p>Este projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/JeffersonAlvesB/portfolio-dev/blob/main/LICENSE" target="_blank">LICENSE</a> para mais detalhes.</p>
 
 <p align="center">
-  Desenvolvido por <b>Jefferson Alves</b> | Conecte-se comigo no <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">LinkedIn</a>
+  Desenvolvido por <b>Jefferson Alves</b> | Conecte-se comigo no <a href="https://www.linkedin.com/in/jeffersonalvesb" target="_blank">LinkedIn</a>
 </p>
