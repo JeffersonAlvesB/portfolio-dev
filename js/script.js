@@ -63,52 +63,64 @@ const Ativar_Link = () => {
 document.addEventListener("scroll", Ativar_Link);
 
 const modalContent = [
-    {
-        title: "HTML5",
-        description:
-            "HTML5 é a linguagem de marcação padrão usada para criar e estruturar páginas web.",
-    },
-    {
-        title: "CSS3",
-        description:
-            "CSS3 é usado para estilizar páginas web, permitindo criar layouts atraentes e responsivos.",
-    },
-    {
-        title: "JavaScript",
-        description:
-            "JavaScript é uma linguagem de programação que permite adicionar interatividade às páginas web.",
-    },
-    {
-        title: "SASS",
-        description:
-            "SASS (Syntactically Awesome Stylesheets) é uma extensão do CSS que permite usar variáveis, mixins e aninhamento para facilitar a escrita e manutenção do código.",
-    },
-    {
-        title: "Tailwind CSS",
-        description:
-            "Tailwind é uma biblioteca de utilitários CSS que permite criar designs rápidos e consistentes diretamente no HTML ou JSX.",
-    },
-    {
-        title: "React",
-        description:
-            "React é uma biblioteca JavaScript para criar interfaces de usuário reativas e escaláveis.",
-    },
-    {
-        title: "TypeScript",
-        description:
-            "TypeScript é uma linguagem que estende o JavaScript, adicionando suporte a tipagem estática para melhorar a confiabilidade e escalabilidade do código.",
-    },
-    {
-        title: "Git",
-        description:
-            "O Git é um sistema de controle de versão distribuído, usado para gerenciar o código-fonte de projetos de software.",
-    },
+  {
+    title: 'HTML5',
+    description:
+      'HTML5 é a linguagem de marcação padrão usada para criar e estruturar páginas web.',
+  },
+  {
+    title: 'CSS3',
+    description:
+      'CSS3 é usado para estilizar páginas web, permitindo criar layouts atraentes e responsivos.',
+  },
+  {
+    title: 'JavaScript',
+    description:
+      'JavaScript é uma linguagem de programação que permite adicionar interatividade às páginas web.',
+  },
+  {
+    title: 'SASS',
+    description:
+      'SASS (Syntactically Awesome Stylesheets) é uma extensão do CSS que permite usar variáveis, mixins e aninhamento para facilitar a escrita e manutenção do código.',
+  },
+  {
+    title: 'Tailwind CSS',
+    description:
+      'Tailwind é uma biblioteca de utilitários CSS que permite criar designs rápidos e consistentes diretamente no HTML ou JSX.',
+  },
+  {
+    title: 'React',
+    description:
+      'React é uma biblioteca JavaScript para criar interfaces de usuário reativas e escaláveis.',
+  },
+  {
+    title: 'TypeScript',
+    description:
+      'TypeScript é uma linguagem que estende o JavaScript, adicionando suporte a tipagem estática para melhorar a confiabilidade e escalabilidade do código.',
+  },
 
-    // {
-    //     title: "Next.js",
-    //     description:
-    //         "Next.js é um framework React que oferece renderização no servidor, geração de sites estáticos e muito mais para criar aplicações modernas e rápidas.",
-    // },
+  {
+    title: 'Next.js',
+    description:
+      'Next.js é um framework React que oferece renderização no servidor, geração de sites estáticos e muito mais para criar aplicações modernas e rápidas.',
+  },
+  {
+    title: 'Jest',
+    description:
+      'Jest é um framework de testes JavaScript focado em simplicidade, usado para testar aplicações React, Node.js e outros projetos JavaScript.',
+  },
+
+  {
+    title: 'Figma',
+    description:
+      'Figma é uma ferramenta de design colaborativo baseada na web, usada para criar interfaces, protótipos e sistemas de design.',
+  },
+
+  {
+    title: 'Git',
+    description:
+      'O Git é um sistema de controle de versão distribuído, usado para gerenciar o código-fonte de projetos de software.',
+  },
 ];
 
 // Função para abrir o modal com dados do índice
