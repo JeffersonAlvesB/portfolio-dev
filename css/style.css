@@ -335,14 +335,16 @@ h2 .comentarios {
 .git,
 .nextjs,
 .tailwind,
-.sass {
-    width: 100px;
-    height: 100px;
-    padding: 1.2rem;
-    border-radius: 5px;
-    color: var(--corFonteTextos);
-    background-color: #232329;
-    cursor: pointer;
+.sass,
+.figma,
+.jest {
+  width: 100px;
+  height: 100px;
+  padding: 1.2rem;
+  border-radius: 5px;
+  color: var(--corFonteTextos);
+  background-color: #232329;
+  cursor: pointer;
 }
 
 .html5:hover,
@@ -350,28 +352,25 @@ h2 .comentarios {
 .javascript:hover,
 .react:hover,
 .nextjs:hover,
-.tailwind:hover {
-    color: var(--corVerde);
+.tailwind:hover,
+.figma:hover,
+.jest:hover {
+  color: var(--corVerde);
 }
 
-.typescript path {
-    fill: var(--corFonteTextos);
-}
-
+.figma path,
+.jest path,
+.typescript path,
 .git path {
-    fill: var(--corFonteTextos);
+  fill: var(--corFonteTextos);
 }
 
-.typescript:hover path {
-    fill: var(--corVerde);
-}
-
-.git:hover path {
-    fill: var(--corVerde);
-}
-
+.typescript:hover path,
+.jest:hover path,
+.figma:hover path,
+.git:hover path,
 .sass:hover path {
-    fill: var(--corVerde);
+  fill: var(--corVerde);
 }
 
 .nome_skills {
